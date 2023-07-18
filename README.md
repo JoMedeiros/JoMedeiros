@@ -15,3 +15,5 @@
 </div>
   
 ![Snake animation](https://github.com/JoMedeiros/JoMedeiros/blob/output/github-contribution-grid-snake.svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jomedeiros&theme=tokyonight)](https://git.io/streak-stats)
